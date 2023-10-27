@@ -1,4 +1,4 @@
-# Z-Score-Calculator
+## Z-Score-Calculator
 
 # Command-Line
 Rscript Z_analysis.R \\ \
